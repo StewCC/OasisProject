@@ -28,7 +28,7 @@ Here is a list of the features implemented, please note that the project is curr
 Everything marked as an X is a planned feature. Other unique features are planned such as multi world servers and game modes.
 
 # Running the server
-Because the oasis is in development, ther are no current scripts to ease installation and deplyment of an m.io server. Here are manual instructions (server starts on port 5000)
+Here are manual instructions (server starts on port 5000)
 **PLEASE NOTE that running the Oasis Project requires node.js 6.0 or higher**
 ```
 git clone https://github.com/Nuro/OasisProject
